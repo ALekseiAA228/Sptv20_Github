@@ -16,6 +16,7 @@ public class Sptv20_GitPro {
      */
     public static void main(String[] args) {
         System.out.println("first");
+        System.out.println("second");
         // TODO code application logic here
     }
     
